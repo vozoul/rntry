@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "lastname": "doe",
+            "firstname": "jane",
+            "password": "jane",
+            "birthdate": "02-01-2000",
+            "role": "member"
+        },
+        {
+            "lastname": "doe",
+            "firstname": "john",
+            "password": "demo",
+            "birthdate": "01-01-2000",
+            "role": "guest"
+        },
+        {
+            "lastname": "doe",
+            "firstname": "johnny",
+            "password": "admin",
+            "birthdate": "03-01-2000",
+            "role": "admin"
+        }
+    ],
+    "comments": {
+        "cmt1": {
+            "author": "id1",
+            "content": "truc, machin"
+        },
+        "cmt2": {
+            "author": "id1",
+            "content": "truc, machin"
+        }
+    }
+}
